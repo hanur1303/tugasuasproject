@@ -17,3 +17,6 @@ Program ini memanggil fungsi daftar_barang untuk memulai transaksi.
 ![Screenshot_165](https://github.com/hanur1303/tugasuasproject/assets/148194701/10375583-6cc8-4b65-90d4-673f91fa64df)
 ![Screenshot_166](https://github.com/hanur1303/tugasuasproject/assets/148194701/0c62fcd4-88e7-46bd-874b-0387e1078a5a)
 
+![Screenshot_166](https://github.com/hanur1303/tugasuasproject/assets/148194701/ed5bcfee-4c3f-4310-9ebe-306636cee569)
+![Screenshot_166](https://github.com/hanur1303/tugasuasproject/assets/148194701/df18a644-971d-4d64-af11-7b2a9f91094f)
+
