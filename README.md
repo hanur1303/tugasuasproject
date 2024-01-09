@@ -1,6 +1,6 @@
 # Tugas UAS Project
 
-Kode ini adalah program Python yang mensimulasikan sistem kasir untuk sebuah warung makan. Program ini memiliki fitur-fitur berikut:
+Kode ini adalah program Python yang mensimulasikan sistem kasir untuk sebuah kasir Program ini memiliki fitur-fitur berikut:
 
 Program ini mendefinisikan sebuah fungsi bernama daftar_barang yang menampilkan menu makanan dan minuman, dan harga-harga mereka. Fungsi ini juga meminta pengguna untuk memilih sebuah item dan jumlahnya, dan menghitung subtotal untuk item tersebut. Kemudian, fungsi ini menambahkan subtotal ke sebuah daftar bernama total, dan memanggil fungsi lain
 
