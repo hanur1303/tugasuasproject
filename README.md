@@ -1,21 +1,27 @@
 # Tugas UAS Project
 
-Kode ini adalah program Python yang mensimulasikan sistem kasir untuk sebuah kasir Program ini memiliki fitur-fitur berikut:
+def daftar_barang. Bagian ini bertujuan untuk membuat daftar barang yang tersedia di kasir kantin dengan menggunakan input dari pengguna. Berikut adalah penjelasan tentang kode program Anda:
 
-Program ini mendefinisikan sebuah fungsi bernama daftar_barang yang menampilkan menu makanan dan minuman, dan harga-harga mereka. Fungsi ini juga meminta pengguna untuk memilih sebuah item dan jumlahnya, dan menghitung subtotal untuk item tersebut. Kemudian, fungsi ini menambahkan subtotal ke sebuah daftar bernama total, dan memanggil fungsi lain
+Pertama, menggunakan fungsi print untuk menampilkan tabel yang berisi nama, harga, dan jumlah makanan atau minuman yang tersedia di kantin.
 
-Program ini mendefinisikan sebuah fungsi bernama tanya yang meminta pengguna apakah mereka ingin menambahkan menu lainnya. Jika pengguna menjawab “y”, fungsi ini akan memanggil fungsi daftar_barang lagi. Jika pengguna menjawab “t”, fungsi ini akan memanggil fungsi akhir. Jika pengguna memasukkan pilihan yang salah, fungsi ini akan mencetak pesan kesalahan.
+Kedua, menggunakan fungsi input untuk meminta pembeli untuk memasukkan angka makanan yang ingin dibeli. Angka ini akan menjadi kode fungsi yang akan dipanggil sesuai dengan pilihan pembeli.
 
-Program ini mendefinisikan sebuah fungsi bernama akhir yang menampilkan total harga dari semua item yang dipilih pengguna. Fungsi ini juga menghitung diskon berdasarkan jumlah total, dan menampilkan total akhir setelah dikurangi diskon. Fungsi ini juga meminta pengguna untuk memasukkan jumlah uang yang dibayarkan, dan menghitung kembalian. Fungsi ini juga mencetak pesan terima kasih.
+Ketiga, menggunakan if-elif-else untuk mengecek kode makanan dan melakukan operasi hitung total harga. juga menggunakan variabel total untuk menyimpan jumlah total harga dari semua makanan atau minuman yang dibeli oleh pembeli.
 
-Program ini memanggil fungsi daftar_barang untuk memulai transaksi. 
+def tanya. Bagian ini bertujuan untuk menampilkan menu tambah barang lainnya di restoran dengan menggunakan input dari pembeli. Berikut adalah penjelasan tentang kode program Anda:
+
+Pertama, menggunakan fungsi print untuk menampilkan pesan yang berisi pilihan untuk menambahkan menu lainnya. 
+
+Kedua, saya menggunakan if-elif-else untuk mengecek pilihan dan melakukan aksi yang sesuai. Jika pilihan adalah “y”, maka memanggil fungsi daftar_barang yang telah definisikan sebelumnya. Jika pilihan adalah “t”, maka memanggil fungsi akhir yang akan mengakhiri program. Jika pilihan tidak valid, maka menggunakan fungsi print untuk menampilkan pesan kesalahan.
+
+bagian def akhir. bagian ini bertujuan untuk menampilkan menu tambah barang lainnya di kantin dengan menggunakan input dari pengguna. Berikut adalah penjelasan tentang kode program Anda:
+
+Pertama, menggunakan for loop untuk mengulangi setiap item dan jumlah dalam daftar pesanan yang diberikan oleh pembeli. Juga menggunakan variabel total untuk menyimpan jumlah total harga dari semua makanan atau minuman yang dibeli oleh pengguna.
+
+Kedua, menggunakan if-elif-else untuk mengecek apakah item tersebut ada dalam menu kantin atau tidak. Jika ada, maka menambahkan harga item tersebut ke total dengan mengalikan jumlahnya dengan harga item tersebut. Jika tidak, maka mencetak pesan bahwa menu tersebut tidak ada dalam daftar.
+
+Ketiga, menggunakan fungsi print untuk menampilkan subtotal, diskon, dan total akhir dari semua makanan atau minuman yang dibeli oleh pembeli. juga menggunakan fungsi input untuk meminta kasir untuk memasukkan bayarannya.
 
 # Bukti Pengerjaan
-![Screenshot_162](https://github.com/hanur1303/tugasuasproject/assets/148194701/38df0c4e-f23e-4d36-a72a-2aca8a908671)
-![Screenshot_163](https://github.com/hanur1303/tugasuasproject/assets/148194701/bedd4b93-d419-4aef-92ff-7dbd5fcaf2c8)
-![Screenshot_164](https://github.com/hanur1303/tugasuasproject/assets/148194701/778dd8ac-22a2-4b48-8971-63846522f2cc)
-![Screenshot_165](https://github.com/hanur1303/tugasuasproject/assets/148194701/10375583-6cc8-4b65-90d4-673f91fa64df)
-![Screenshot_166](https://github.com/hanur1303/tugasuasproject/assets/148194701/0c62fcd4-88e7-46bd-874b-0387e1078a5a)
+https://youtu.be/gkf2WnfIQeE?si=q5xGfjtMuAG9VQ0f 
 
-![Screenshot_168](https://github.com/hanur1303/tugasuasproject/assets/148194701/2f4542ef-5b91-4840-9509-f0159420f51c)
-![Screenshot_167](https://github.com/hanur1303/tugasuasproject/assets/148194701/cea85aca-d5d0-4fc2-8c7a-32f4c983c4ba)
