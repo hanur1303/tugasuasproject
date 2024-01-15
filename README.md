@@ -30,5 +30,5 @@ Kedua, menggunakan if-elif-else untuk mengecek apakah item tersebut ada dalam me
 Ketiga, menggunakan fungsi print untuk menampilkan subtotal, diskon, dan total akhir dari semua makanan atau minuman yang dibeli oleh pembeli. juga menggunakan fungsi input untuk meminta kasir untuk memasukkan bayarannya.
 
 # Bukti Pengerjaan
-    https://youtu.be/gkf2WnfIQeE?si=q5xGfjtMuAG9VQ0f 
+https://youtu.be/gkf2WnfIQeE?si=q5xGfjtMuAG9VQ0f 
 
